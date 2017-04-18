@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arbiter of the Sphere
+title: Techno Sphere
 email: jack.gervais@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   These words serve as a record of a man's ascent (descent?) into the world of coding and development.
    This place will hold the accounts of new technologies, languages, events, and whatever else is deemed
-   relevent to the sphere. Like video games. and techno.
+   relevent to the sphere, like video games. and techno.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jrgerv.github.io/techno-sphere/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JR_Gerv
 github_username:  JRgerv
 
