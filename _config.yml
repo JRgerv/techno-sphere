@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   These words serve as a record of a man's ascent (descent?) into the world of coding and development.
    This place will hold the accounts of new technologies, languages, events, and whatever else is deemed
    relevent to the sphere, like video games. and techno.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jrgerv.github.io/techno-sphere/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/techno-sphere" # the subpath of your site, e.g. /blog
+url: "https://jrgerv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JR_Gerv
 github_username:  JRgerv
 
